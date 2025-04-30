@@ -55,14 +55,15 @@ Cria uma lista do tipo `string` para armazenar as tarefas: `List<string> tarefas
 Cria uma lista tipo `bool` para armazenar o status da tarefa: `List<bool> concluida = new List<bool>();`  
 Cria uma variável booleana de controle: `bool executando = true;`  
 Entra em `while (executando)` que imprime o menu:
-- case 1 ele pede ao usuario uma tarefa e depois armazena em uma variavel Console.Write("Digite a nova tarefa: "); string tarefa = Console.ReadLine(); em seguida adiciona essa 
-tarefa na lista de tarefas e na lista de concluidas adiciona false ao mesmo indice da tarefa tarefas.Add(tarefa); concluida.Add(false); break; para encerrar o switch
-- case 2 imprime a lista de tarefas com um for que conta quantos itens tem 
-na lista tarefas e faz uma verificacao "enquanto o indice i for menor que a quantidade de tarefas soma mais 1 ao i" for (int i = 0; i < tarefas.Count; i++) dentro do for ele executa os seguintes comandos 
-string status = concluida[i] ? "[X]" : "[ ]"; cria uma variavel que e atribuida com o resultado de uma operacao ternaria se verdadeiro status recebe "[X]" se falso recebe "[ ]" em seguida imprime o indice + 1 porqueo 
-o i comeca em zero o status e a tarefa referente ao indice atual Console.WriteLine($"{i + 1}. {status} {tarefas[i]}"); 
-- case 3 ele pede o indice da tarefa que sera marcada como finalizada entao ele faz um if para transformar o valor inserido
-em int int.TryParse(Console.ReadLine(), out int indice) e verifica se o valor e maior ou igual a 1 e se é menor ou igual a quantidade de tarefas && indice >= 1 && indice <= tarefas.Count se sim ele pega a lista de tarefas no indice informado
-menos 1 porque na lista o indice comeca em 0 e reatribui com true concluida[indice - 1] = true; depois imprime que a tarefa foi concluida tem um else para caso seja informado um valor invalido
-- case 4 ele apenas reatribui do valor da variavel executando como false
-- break para que o while seja interrompido para finalizar um default que executa uma mensagem para valores que nao batem com as opcoes dos cases em seguida imprime uma mensagem de agradecimento quandoo usuario deseja finalizar o programa (case 4)
+- Case 1: pede ao usuário uma tarefa com Console.Write("Digite a nova tarefa: "); string tarefa = Console.ReadLine();.
+Adiciona essa tarefa na lista de tarefas com tarefas.Add(tarefa); e adiciona false na lista concluida com concluida.Add(false);, mantendo o mesmo índice.
+Finaliza com break para sair do switch.
+- Case 2: imprime a lista de tarefas com um for que percorre os elementos da lista com for (int i = 0; i < tarefas.Count; i++).
+Dentro do for, é criada uma variável status que recebe o valor [X] se a tarefa estiver concluída (concluida[i] == true) ou [ ] se estiver pendente, usando a operação ternária string status = concluida[i] ? "[X]" : "[ ]";.
+Em seguida, imprime o número da tarefa (i + 1), o status e o nome da tarefa: Console.WriteLine($"{i + 1}. {status} {tarefas[i]}");.
+- Case 3: pede ao usuário o número da tarefa a ser marcada como concluída.
+Tenta converter a entrada para número com int.TryParse(Console.ReadLine(), out int indice) e verifica se o número está no intervalo válido (maior ou igual a 1 e menor ou igual à quantidade de tarefas).
+Se for válido, marca a tarefa como concluída com concluida[indice - 1] = true; e exibe uma mensagem confirmando.
+Se o número for inválido, exibe uma mensagem de erro.
+- Case 4: reatribui o valor false para a variável executando, encerrando o laço while e finalizando o programa.
+- Default: se a opção informada pelo usuário não corresponder a nenhum dos cases, exibe uma mensagem dizendo que a opção é inválida.
