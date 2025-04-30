@@ -1,0 +1,14 @@
+/Users/mateus/Desktop/AtividadesC#/Ex8/obj/Debug/net8.0/ex8.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mateus/Desktop/AtividadesC#/Ex8/obj/Debug/net8.0/ex8.AssemblyInfoInputs.cache
+/Users/mateus/Desktop/AtividadesC#/Ex8/obj/Debug/net8.0/ex8.AssemblyInfo.cs
+/Users/mateus/Desktop/AtividadesC#/Ex8/obj/Debug/net8.0/ex8.csproj.CoreCompileInputs.cache
+/Users/mateus/Desktop/AtividadesC#/Ex8/bin/Debug/net8.0/ex8
+/Users/mateus/Desktop/AtividadesC#/Ex8/bin/Debug/net8.0/ex8.deps.json
+/Users/mateus/Desktop/AtividadesC#/Ex8/bin/Debug/net8.0/ex8.runtimeconfig.json
+/Users/mateus/Desktop/AtividadesC#/Ex8/bin/Debug/net8.0/ex8.dll
+/Users/mateus/Desktop/AtividadesC#/Ex8/bin/Debug/net8.0/ex8.pdb
+/Users/mateus/Desktop/AtividadesC#/Ex8/obj/Debug/net8.0/ex8.dll
+/Users/mateus/Desktop/AtividadesC#/Ex8/obj/Debug/net8.0/refint/ex8.dll
+/Users/mateus/Desktop/AtividadesC#/Ex8/obj/Debug/net8.0/ex8.pdb
+/Users/mateus/Desktop/AtividadesC#/Ex8/obj/Debug/net8.0/ex8.genruntimeconfig.cache
+/Users/mateus/Desktop/AtividadesC#/Ex8/obj/Debug/net8.0/ref/ex8.dll

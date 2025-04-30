@@ -1,0 +1,14 @@
+/Users/mateus/Desktop/AtividadesC#/Ex9/obj/Debug/net8.0/Ex9.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mateus/Desktop/AtividadesC#/Ex9/obj/Debug/net8.0/Ex9.AssemblyInfoInputs.cache
+/Users/mateus/Desktop/AtividadesC#/Ex9/obj/Debug/net8.0/Ex9.AssemblyInfo.cs
+/Users/mateus/Desktop/AtividadesC#/Ex9/obj/Debug/net8.0/Ex9.csproj.CoreCompileInputs.cache
+/Users/mateus/Desktop/AtividadesC#/Ex9/bin/Debug/net8.0/Ex9
+/Users/mateus/Desktop/AtividadesC#/Ex9/bin/Debug/net8.0/Ex9.deps.json
+/Users/mateus/Desktop/AtividadesC#/Ex9/bin/Debug/net8.0/Ex9.runtimeconfig.json
+/Users/mateus/Desktop/AtividadesC#/Ex9/bin/Debug/net8.0/Ex9.dll
+/Users/mateus/Desktop/AtividadesC#/Ex9/bin/Debug/net8.0/Ex9.pdb
+/Users/mateus/Desktop/AtividadesC#/Ex9/obj/Debug/net8.0/Ex9.dll
+/Users/mateus/Desktop/AtividadesC#/Ex9/obj/Debug/net8.0/refint/Ex9.dll
+/Users/mateus/Desktop/AtividadesC#/Ex9/obj/Debug/net8.0/Ex9.pdb
+/Users/mateus/Desktop/AtividadesC#/Ex9/obj/Debug/net8.0/Ex9.genruntimeconfig.cache
+/Users/mateus/Desktop/AtividadesC#/Ex9/obj/Debug/net8.0/ref/Ex9.dll

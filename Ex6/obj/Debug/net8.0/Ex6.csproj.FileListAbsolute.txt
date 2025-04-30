@@ -1,0 +1,14 @@
+/Users/mateus/Desktop/AtividadesC#/Ex6/obj/Debug/net8.0/Ex6.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mateus/Desktop/AtividadesC#/Ex6/obj/Debug/net8.0/Ex6.AssemblyInfoInputs.cache
+/Users/mateus/Desktop/AtividadesC#/Ex6/obj/Debug/net8.0/Ex6.AssemblyInfo.cs
+/Users/mateus/Desktop/AtividadesC#/Ex6/obj/Debug/net8.0/Ex6.csproj.CoreCompileInputs.cache
+/Users/mateus/Desktop/AtividadesC#/Ex6/bin/Debug/net8.0/Ex6
+/Users/mateus/Desktop/AtividadesC#/Ex6/bin/Debug/net8.0/Ex6.deps.json
+/Users/mateus/Desktop/AtividadesC#/Ex6/bin/Debug/net8.0/Ex6.runtimeconfig.json
+/Users/mateus/Desktop/AtividadesC#/Ex6/bin/Debug/net8.0/Ex6.dll
+/Users/mateus/Desktop/AtividadesC#/Ex6/bin/Debug/net8.0/Ex6.pdb
+/Users/mateus/Desktop/AtividadesC#/Ex6/obj/Debug/net8.0/Ex6.dll
+/Users/mateus/Desktop/AtividadesC#/Ex6/obj/Debug/net8.0/refint/Ex6.dll
+/Users/mateus/Desktop/AtividadesC#/Ex6/obj/Debug/net8.0/Ex6.pdb
+/Users/mateus/Desktop/AtividadesC#/Ex6/obj/Debug/net8.0/Ex6.genruntimeconfig.cache
+/Users/mateus/Desktop/AtividadesC#/Ex6/obj/Debug/net8.0/ref/Ex6.dll
